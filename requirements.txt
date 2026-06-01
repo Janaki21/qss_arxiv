@@ -1,0 +1,13 @@
+numpy
+scipy
+matplotlib
+pandas
+mne
+fooof
+specparam
+scikit-learn
+statsmodels
+requests
+tqdm
+wget
+seaborn

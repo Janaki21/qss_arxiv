@@ -1,0 +1,14 @@
+SAMPLING_RATE = 250
+DURATION = 180
+
+WINDOW_SEC = 10
+STEP_SEC = 5
+
+FMIN = 2
+FMAX = 40
+
+STRUCTURE_THRESHOLD = 0.12
+
+N_SIMULATIONS = 25
+
+DATASET_URL = "https://physionet.org/files/eegmmidb/1.0.0/"
