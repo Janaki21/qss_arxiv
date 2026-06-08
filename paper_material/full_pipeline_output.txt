@@ -1,0 +1,23 @@
+
+Running rest
+
+Running task
+
+Running fatigue
+
+Running statistical validation
+
+Downloading EEG dataset
+
+Running real EEG comparison
+       state      beta  qss  tau        dc  residual_std
+0  real_rest  0.087734  0.0    1  0.166667      0.106968
+1  real_task  0.009861  0.0    1  0.071429      0.070957
+
+Running sensitivity analysis
+
+Generating advanced figures
+
+Generating state-space figure
+
+PIPELINE COMPLETE
